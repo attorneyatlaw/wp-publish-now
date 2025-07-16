@@ -1,5 +1,5 @@
 # wp-publish-now
-Shortcut(Ctrl + P) for Publish in WordPress Block Editor  <br><br><br>
+Shortcut(ctrl + p) for Publish in WordPress Block Editor  <br><br><br>
 
 # How to use
 이 repository에 있는 ```functions.php``` 안에 있는 코드를 사용 중인 WordPress theme(child theme을 사용하는 경우는 child theme) 내 ```functions.php``` 끝 부분에 추가해 주세요.<br><br>
